@@ -1,0 +1,15 @@
+{
+    "name": "karanguleria/testing-composer",
+    "description": "Just testing the composer",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Karan Guleria",
+            "email": "himekaranguleria@gmail.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
