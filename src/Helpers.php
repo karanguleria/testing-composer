@@ -1,6 +1,6 @@
 <?php 
 
-namespace Helpers;
+namespace Helperss;
 class Helpers {
     public function current_url()
 	{
