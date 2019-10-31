@@ -11,5 +11,8 @@
             "role": "Developer"
         }
     ],
+    "autoload": {
+        "psr-4": {"Helpers\\": "src"}
+    },
     "require": {}
 }
